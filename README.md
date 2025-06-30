@@ -53,9 +53,13 @@ param_grid = {
     'min_samples_leaf': [1, 2]
 }
 
+---
+## 📄 Results
+<img width="935" alt="image" src="https://github.com/user-attachments/assets/9636acba-c470-4794-b880-77a0de257d33" />
 
-Results:
 
-<img width="940" alt="image" src="https://github.com/user-attachments/assets/77c8fe47-c612-4978-ac2d-17fe26a81a27" />
+
+
+
 
 
